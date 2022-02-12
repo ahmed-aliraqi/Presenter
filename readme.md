@@ -14,7 +14,7 @@ Pull this package in through Composer.
 ```js
 {
     "require": {
-        "ahmed-aliraqi/presenter": "0.1.*"
+        "ahmed-aliraqi/presenter": "^1.0"
     }
 }
 ```
